@@ -22,7 +22,7 @@ body{
     display: flex;
     justify-content: center;
     margin: auto;
-    background-image: linear-gradient(yellow, black);
+    background-image: linear-gradient(rgb(223, 189, 0), black);
 }
 
 .chamada-texto{
