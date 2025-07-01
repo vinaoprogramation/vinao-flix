@@ -21,6 +21,7 @@ body{
 .chamada{
     display: block;
     justify-content: center;
+    margin: auto;
 }
 
 .chamada-texto{
