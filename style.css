@@ -19,6 +19,14 @@ body{
 }
 
 .chamada{
-    display: flex;
+    display: block;
     justify-content: center;
+}
+
+.chamada-texto{
+    display: inline-block;
+}
+
+.chamada .iframe{
+    display: inline-block;
 }
