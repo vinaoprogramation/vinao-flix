@@ -35,6 +35,10 @@ img {
     height: 200px;
 }
 
+section h2 {
+    font-family: "Inter", sans-serif;
+}
+
 .categoria-videos {
 
     display: flex;
