@@ -35,6 +35,7 @@ img{
 }
 
 .categoria-videos{
+    font-weight: "Bebas Neue", sans-serif; 
     display: flex;
     overflow-x: auto;
     gap: 10px;
