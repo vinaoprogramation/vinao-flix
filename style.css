@@ -46,3 +46,11 @@ section h2 {
     gap: 10px;
     font-family: "Inter", sans-serif;
 }
+
+.boas-vindas{
+    font-size: 2vw;
+    padding: 2%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
