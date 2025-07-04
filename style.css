@@ -23,6 +23,7 @@ body{
     justify-content: center;
     margin: auto;
     background-image: linear-gradient(rgb(0, 216, 223), black);
+    font-weight: "Bebas Neue", sans-serif; 
 }
 
 .chamada-texto{
